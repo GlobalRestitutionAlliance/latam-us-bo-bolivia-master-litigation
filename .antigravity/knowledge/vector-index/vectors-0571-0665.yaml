@@ -1,0 +1,482 @@
+vector_index_block:
+  jurisdiction: Bolivia
+  iso: BO
+  block: 7
+  range: [571,665]
+  status: SCAFFOLDED_PENDING_VERIFICATION
+  vectors:
+    - vector_id: "BO-V-0571"
+      anchor: "Resource extraction and nationalization disputes (tin, gas, lithium)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0572"
+      anchor: "Indigenous rights and political marginalization history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0573"
+      anchor: "1970s authoritarian period and external influence concerns"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0574"
+      anchor: "Resource extraction and nationalization disputes (tin, gas, lithium)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0575"
+      anchor: "Indigenous rights and political marginalization history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0576"
+      anchor: "1970s authoritarian period and external influence concerns"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0577"
+      anchor: "Resource extraction and nationalization disputes (tin, gas, lithium)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0578"
+      anchor: "Indigenous rights and political marginalization history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0579"
+      anchor: "1970s authoritarian period and external influence concerns"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0580"
+      anchor: "Resource extraction and nationalization disputes (tin, gas, lithium)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0581"
+      anchor: "Indigenous rights and political marginalization history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0582"
+      anchor: "1970s authoritarian period and external influence concerns"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0583"
+      anchor: "Resource extraction and nationalization disputes (tin, gas, lithium)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0584"
+      anchor: "Indigenous rights and political marginalization history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0585"
+      anchor: "1970s authoritarian period and external influence concerns"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0586"
+      anchor: "Resource extraction and nationalization disputes (tin, gas, lithium)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0587"
+      anchor: "Indigenous rights and political marginalization history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0588"
+      anchor: "1970s authoritarian period and external influence concerns"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0589"
+      anchor: "Resource extraction and nationalization disputes (tin, gas, lithium)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0590"
+      anchor: "Indigenous rights and political marginalization history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0591"
+      anchor: "1970s authoritarian period and external influence concerns"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0592"
+      anchor: "Resource extraction and nationalization disputes (tin, gas, lithium)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0593"
+      anchor: "Indigenous rights and political marginalization history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0594"
+      anchor: "1970s authoritarian period and external influence concerns"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0595"
+      anchor: "Resource extraction and nationalization disputes (tin, gas, lithium)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0596"
+      anchor: "Indigenous rights and political marginalization history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0597"
+      anchor: "1970s authoritarian period and external influence concerns"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0598"
+      anchor: "Resource extraction and nationalization disputes (tin, gas, lithium)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0599"
+      anchor: "Indigenous rights and political marginalization history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0600"
+      anchor: "1970s authoritarian period and external influence concerns"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0601"
+      anchor: "Resource extraction and nationalization disputes (tin, gas, lithium)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0602"
+      anchor: "Indigenous rights and political marginalization history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0603"
+      anchor: "1970s authoritarian period and external influence concerns"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0604"
+      anchor: "Resource extraction and nationalization disputes (tin, gas, lithium)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0605"
+      anchor: "Indigenous rights and political marginalization history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0606"
+      anchor: "1970s authoritarian period and external influence concerns"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0607"
+      anchor: "Resource extraction and nationalization disputes (tin, gas, lithium)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0608"
+      anchor: "Indigenous rights and political marginalization history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0609"
+      anchor: "1970s authoritarian period and external influence concerns"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0610"
+      anchor: "Resource extraction and nationalization disputes (tin, gas, lithium)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0611"
+      anchor: "Indigenous rights and political marginalization history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0612"
+      anchor: "1970s authoritarian period and external influence concerns"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0613"
+      anchor: "Resource extraction and nationalization disputes (tin, gas, lithium)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0614"
+      anchor: "Indigenous rights and political marginalization history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0615"
+      anchor: "1970s authoritarian period and external influence concerns"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0616"
+      anchor: "Resource extraction and nationalization disputes (tin, gas, lithium)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0617"
+      anchor: "Indigenous rights and political marginalization history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0618"
+      anchor: "1970s authoritarian period and external influence concerns"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0619"
+      anchor: "Resource extraction and nationalization disputes (tin, gas, lithium)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0620"
+      anchor: "Indigenous rights and political marginalization history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0621"
+      anchor: "1970s authoritarian period and external influence concerns"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0622"
+      anchor: "Resource extraction and nationalization disputes (tin, gas, lithium)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0623"
+      anchor: "Indigenous rights and political marginalization history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0624"
+      anchor: "1970s authoritarian period and external influence concerns"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0625"
+      anchor: "Resource extraction and nationalization disputes (tin, gas, lithium)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0626"
+      anchor: "Indigenous rights and political marginalization history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0627"
+      anchor: "1970s authoritarian period and external influence concerns"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0628"
+      anchor: "Resource extraction and nationalization disputes (tin, gas, lithium)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0629"
+      anchor: "Indigenous rights and political marginalization history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0630"
+      anchor: "1970s authoritarian period and external influence concerns"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0631"
+      anchor: "Resource extraction and nationalization disputes (tin, gas, lithium)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0632"
+      anchor: "Indigenous rights and political marginalization history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0633"
+      anchor: "1970s authoritarian period and external influence concerns"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0634"
+      anchor: "Resource extraction and nationalization disputes (tin, gas, lithium)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0635"
+      anchor: "Indigenous rights and political marginalization history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0636"
+      anchor: "1970s authoritarian period and external influence concerns"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0637"
+      anchor: "Resource extraction and nationalization disputes (tin, gas, lithium)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0638"
+      anchor: "Indigenous rights and political marginalization history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0639"
+      anchor: "1970s authoritarian period and external influence concerns"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0640"
+      anchor: "Resource extraction and nationalization disputes (tin, gas, lithium)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0641"
+      anchor: "Indigenous rights and political marginalization history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0642"
+      anchor: "1970s authoritarian period and external influence concerns"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0643"
+      anchor: "Resource extraction and nationalization disputes (tin, gas, lithium)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0644"
+      anchor: "Indigenous rights and political marginalization history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0645"
+      anchor: "1970s authoritarian period and external influence concerns"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0646"
+      anchor: "Resource extraction and nationalization disputes (tin, gas, lithium)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0647"
+      anchor: "Indigenous rights and political marginalization history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0648"
+      anchor: "1970s authoritarian period and external influence concerns"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0649"
+      anchor: "Resource extraction and nationalization disputes (tin, gas, lithium)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0650"
+      anchor: "Indigenous rights and political marginalization history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0651"
+      anchor: "1970s authoritarian period and external influence concerns"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0652"
+      anchor: "Resource extraction and nationalization disputes (tin, gas, lithium)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0653"
+      anchor: "Indigenous rights and political marginalization history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0654"
+      anchor: "1970s authoritarian period and external influence concerns"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0655"
+      anchor: "Resource extraction and nationalization disputes (tin, gas, lithium)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0656"
+      anchor: "Indigenous rights and political marginalization history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0657"
+      anchor: "1970s authoritarian period and external influence concerns"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0658"
+      anchor: "Resource extraction and nationalization disputes (tin, gas, lithium)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0659"
+      anchor: "Indigenous rights and political marginalization history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0660"
+      anchor: "1970s authoritarian period and external influence concerns"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0661"
+      anchor: "Resource extraction and nationalization disputes (tin, gas, lithium)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0662"
+      anchor: "Indigenous rights and political marginalization history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0663"
+      anchor: "1970s authoritarian period and external influence concerns"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0664"
+      anchor: "Resource extraction and nationalization disputes (tin, gas, lithium)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BO-V-0665"
+      anchor: "Indigenous rights and political marginalization history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true

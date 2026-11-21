@@ -1,0 +1,27 @@
+{
+  "url": "https://guides.loc.gov/",
+  "final_url": "https://guides.loc.gov/",
+  "status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes": 28105,
+  "sha256": "a9933b52d92d53ac999a54f8ba56c8fcdd65766b8d4c5c39f6b9a2e5955052f0",
+  "captured_at": "2026-11-21T18:27:39.857678Z",
+  "custodian": "OpenCode/harvest_public_sources.py",
+  "country": "Bolivia",
+  "iso": "BO",
+  "title": "Library of Congress - Research Guides / Country Studies",
+  "headers": {
+    "Date": "Sat, 21 Nov 2026 18:30:19 GMT",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "close",
+    "Server": "cloudflare",
+    "vary": "Accept-Encoding",
+    "x-backend-server": "libguides-us-4.springyaws.com",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "upgrade-insecure-requests",
+    "strict-transport-security": "max-age=31536000; preload",
+    "cf-cache-status": "DYNAMIC",
+    "CF-RAY": "a5e1c3d58874256a-MIA"
+  }
+}

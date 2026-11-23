@@ -1,0 +1,17 @@
+{
+  "url": "https://history.state.gov/countries/bolivia",
+  "final_url": "https://history.state.gov/countries/bolivia",
+  "title": "FRUS - Bolivia",
+  "fetched_at": "2026-11-23T15:31:51.335109Z",
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "bytes": 25226,
+  "sha256": "e6f0f8ab448c14c7ddd5f8fe2fdb297a7823868d2e88913b6dea72f7ee37b69b",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}

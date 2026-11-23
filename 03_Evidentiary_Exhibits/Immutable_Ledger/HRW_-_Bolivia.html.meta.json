@@ -1,0 +1,17 @@
+{
+  "url": "https://www.hrw.org/americas/bolivia",
+  "final_url": "https://www.hrw.org/americas/bolivia",
+  "title": "HRW - Bolivia",
+  "fetched_at": "2026-11-23T15:31:52.182288Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 194352,
+  "sha256": "b894c961d69dc84d8d1efbbb4ea0817706bf114d23231e0b9ff64ae35cafec1a",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
